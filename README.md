@@ -19,21 +19,21 @@
 
   ------------------------------ 𝐑𝐞𝐥𝐚𝐭𝐞𝐝 𝐋𝐢𝐧𝐤𝐬 ------------------------------
   
-  ℍ𝕒𝕔𝕜𝕖𝕣ℝ𝕒𝕟𝕜:
+  -ℍ𝕒𝕔𝕜𝕖𝕣ℝ𝕒𝕟𝕜:
    ╚═> https://www.hackerrank.com/profile/alanskatemuyel
-  ℂ𝕠𝕕𝕖𝕗𝕠𝕣𝕔𝕖𝕤:
+  -ℂ𝕠𝕕𝕖𝕗𝕠𝕣𝕔𝕖𝕤:
    ╚═> https://codeforces.com/profile/alangomezpasillas
-  𝕐𝕠𝕦𝕥𝕦𝕓𝕖:
+  -𝕐𝕠𝕦𝕥𝕦𝕓𝕖:
    ╠═> https://www.youtube.com/@AmigoProgramadorOficial
    ╚═> https://www.youtube.com/@MysticPrismaGames
-  𝔽𝕒𝕔𝕖𝕓𝕠𝕠𝕜:
+  -𝔽𝕒𝕔𝕖𝕓𝕠𝕠𝕜:
    ╚═> https://www.facebook.com/MysticPrismaGames
-  𝕀𝕟𝕕𝕚𝔼𝕩𝕡𝕠:
+  -𝕀𝕟𝕕𝕚𝔼𝕩𝕡𝕠:
    ╚═> https://www.indiexpo.net/en/users/MysticPrisma
-  𝕂𝕖𝕪𝕞𝕒𝕤𝕙:
+  -𝕂𝕖𝕪𝕞𝕒𝕤𝕙:
    ╚═> https://keymash.io/profile/Alan-1023/
-  𝔾𝕚𝕥ℍ𝕦𝕓:
-   ╚═> https://github.com/AlanGomezPasillas
+  -𝔾𝕚𝕥ℍ𝕦𝕓:
+   ╚═> [https://github.com/AlanGomezPasillas](https://www.linkedin.com/in/alan-gomez-pasillas/)
 
 <!---AlanGomezPasillas/AlanGomezPasillas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.--->
