@@ -17,7 +17,8 @@
   so I move it to another URL in my host to keep using it and I learnt that sometimes, even if you want to help, think twice
   before doing something or just ask to your team leader...
 
-  ----------------------------------- 𝐑𝐞𝐥𝐚𝐭𝐞𝐝 𝐋𝐢𝐧𝐤𝐬 -----------------------------------
+  ------------------------------ 𝐑𝐞𝐥𝐚𝐭𝐞𝐝 𝐋𝐢𝐧𝐤𝐬 ------------------------------
+  
   ℍ𝕒𝕔𝕜𝕖𝕣ℝ𝕒𝕟𝕜:
    ╚═> https://www.hackerrank.com/profile/alanskatemuyel
   ℂ𝕠𝕕𝕖𝕗𝕠𝕣𝕔𝕖𝕤:
